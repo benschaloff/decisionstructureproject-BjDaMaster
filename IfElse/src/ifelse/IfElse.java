@@ -24,19 +24,19 @@ public class IfElse {
         
         if (age>=16){
             out.println("You are old enough to drive");
-        }else {
+        } else {
             out.println("You are not old enough to drive");
         }
         
         if (age>=18){
             out.println("You are old enough to vote");
-        }else {
+        } else {
             out.println("You are not old enough to vote");
         }
         
         if (age>=21){
             out.println("You are old enough to drink alcohol");
-        }else {
+        } else {
             out.println("You are not old enough to drink alcohol");
         }
     }
